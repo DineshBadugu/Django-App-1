@@ -4,7 +4,7 @@
 #git info
 #https://git-scm.com/download
 #https://github.com/DT7Solutions/Django-App.git
-
+#https://github.com/DineshBadugu/Django-App-1.git
 
 #install env 
 #pip install virtualenv
