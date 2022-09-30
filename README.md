@@ -3,7 +3,7 @@
 # DineshTechSolutions
 #git info
 #https://git-scm.com/download
-
+#https://github.com/DT7Solutions/Django-App.git
 
 
 #install env 
